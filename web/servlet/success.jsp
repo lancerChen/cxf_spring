@@ -11,7 +11,7 @@
     <title>Success Page</title>
 </head>
 <body>
-Login successful!<br/>
+Login successful! You can enjoy your time now!<br/>
 Information:<br/>
 user name:<%=request.getParameter("uname")%><br/>
 password:<%=request.getParameter("upwd")%><br/>
