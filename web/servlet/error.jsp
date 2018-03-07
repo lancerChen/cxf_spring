@@ -11,7 +11,7 @@
     <title>fail Page</title>
 </head>
 <body>
-Login failure!<br/>
+Login failure! Please check your user name or password!<br/>
 Information:<br/>
 user name:<%=request.getParameter("uname")%><br/>
 password:<%=request.getParameter("upwd")%><br/>
